@@ -1,0 +1,5 @@
+C:\Users\mahdi\Desktop\Simple Chat\Server\Server Chat\Server Chat\bin\Debug\Server Chat.exe.config
+C:\Users\mahdi\Desktop\Simple Chat\Server\Server Chat\Server Chat\bin\Debug\Server Chat.exe
+C:\Users\mahdi\Desktop\Simple Chat\Server\Server Chat\Server Chat\bin\Debug\Server Chat.pdb
+C:\Users\mahdi\Desktop\Simple Chat\Server\Server Chat\Server Chat\obj\Debug\Server Chat.exe
+C:\Users\mahdi\Desktop\Simple Chat\Server\Server Chat\Server Chat\obj\Debug\Server Chat.pdb
